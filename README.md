@@ -1,2 +1,2 @@
 # aplicando-flexbox
-ultilizado o flexbox
+utilizado o flexbox
